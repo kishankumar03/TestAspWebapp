@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAspWebapp", "TestAspWebapp\TestAspWebapp.csproj", "{D4DDE55A-C601-4CAC-B0FF-EED9C5A32650}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAsmxService", "..\MyAsmxService\MyAsmxService\MyAsmxService.csproj", "{CC700A67-7D70-4434-82F1-24B5CDFD5A0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAsmxService", "MyAsmxService\MyAsmxService.csproj", "{CC700A67-7D70-4434-82F1-24B5CDFD5A0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
